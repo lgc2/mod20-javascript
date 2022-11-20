@@ -25,3 +25,5 @@ const arrayComInformacoesDoMaiorEMenor = encontraIndiceDoMaiorEMenorValor(arrayD
 
 console.log('O maior valor é ' + arrayComInformacoesDoMaiorEMenor[0] + ' e o índice do maior é ' + arrayComInformacoesDoMaiorEMenor[1])
 console.log('O menor valor é ' + arrayComInformacoesDoMaiorEMenor[2] + ' e o índice do menor é ' + arrayComInformacoesDoMaiorEMenor[3])
+
+module.exports = encontraIndiceDoMaiorEMenorValor

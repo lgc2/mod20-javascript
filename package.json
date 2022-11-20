@@ -1,0 +1,23 @@
+{
+  "name": "mod20-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculoMDC.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lgc2/mod20-javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lgc2/mod20-javascript/issues"
+  },
+  "homepage": "https://github.com/lgc2/mod20-javascript#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}

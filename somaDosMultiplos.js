@@ -1,4 +1,4 @@
-function calculaSomaDosMultiplosDeDoisNumerosAbaixoDeUmLimite (num1, num2, limite) {
+function calculaSomaDosMultiplosDeDoisNumerosAbaixoDeUmLimite(num1, num2, limite) {
     let somaDosMultiplos = null
 
     let i = 1
@@ -17,3 +17,5 @@ const num2 = 7
 const limite = 1000
 
 console.log('A soma dos múltiplos de ' + num1 + ' ou ' + num2 + ', é: ' + calculaSomaDosMultiplosDeDoisNumerosAbaixoDeUmLimite(num1, num2, limite))
+
+module.exports = calculaSomaDosMultiplosDeDoisNumerosAbaixoDeUmLimite

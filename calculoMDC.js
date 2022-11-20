@@ -32,3 +32,5 @@ const num1 = 320
 const num2 = 400
 
 console.log('O MDC de ' + num1 + ' e ' + num2 + ' é: ' + calculoMdc(num1, num2))
+
+module.exports = calculoMdc
